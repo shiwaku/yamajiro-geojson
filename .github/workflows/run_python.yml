@@ -31,8 +31,8 @@ jobs:
 
       - name: Commit files
         run: |
-          git config --local user.email "y.shiwaku.5519@gmail.com"
-          git config --local user.name "shi-works"
+          git config --local user.email "yohei.shiwaku@gmail.com"
+          git config --local user.name "shiwaku"
           git add .
           git commit -m "Update data files" || echo "No changes to commit"
           git pull --rebase
