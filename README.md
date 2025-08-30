@@ -9,4 +9,4 @@
 3. GeoJSON生成: 加工されたデータからGeoJSONファイルを生成します。
 
 # データのライセンス
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)
+- 2次利用する場合は個別に[山城攻城記様](https://x.com/yamajirokoujyou)の許可を得てください。
